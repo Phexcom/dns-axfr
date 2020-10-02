@@ -2,4 +2,4 @@
 
 # Usage
 
-./dns-axfr <domain name>
+`./dns-axfr <domain name>`
